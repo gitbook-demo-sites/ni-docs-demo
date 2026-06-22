@@ -32,9 +32,9 @@ Find the right manual, API reference, setup guide, service workflow, or training
 ## Choose your path
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td><h3><i class="fa-book-open" style="color:$primary;">:book-open:</i></h3></td><td><strong>Product manuals</strong></td><td>Install, configure, and operate NI software, hardware, and systems.</td><td><a href="https://app.gitbook.com/s/XSPACE_PRODUCT/">product-manuals</a></td></tr>
-<tr><td><h3><i class="fa-code" style="color:$primary;">:code:</i></h3></td><td><strong>Developer APIs</strong></td><td>SystemLink APIs, Python clients, web app integrations, and agent access patterns.</td><td><a href="https://app.gitbook.com/s/XSPACE_DEVELOPER/">developer-apis</a></td></tr>
-<tr><td><h3><i class="fa-screwdriver-wrench" style="color:$primary;">:screwdriver-wrench:</i></h3></td><td><strong>Services and learning</strong></td><td>Calibration, repair, support requests, training, and service agreements.</td><td><a href="https://app.gitbook.com/s/XSPACE_SERVICES/">services-learning</a></td></tr>
+<tr><td><h3><i class="fa-book-open" style="color:$primary;">:book-open:</i></h3></td><td><strong>Product manuals</strong></td><td>Install, configure, and operate NI software, hardware, and systems.</td><td><a href="https://app.gitbook.com/s/MMglUgB9nx8LZcHDjf9J/">product-manuals</a></td></tr>
+<tr><td><h3><i class="fa-code" style="color:$primary;">:code:</i></h3></td><td><strong>Developer APIs</strong></td><td>SystemLink APIs, Python clients, web app integrations, and agent access patterns.</td><td><a href="https://app.gitbook.com/s/9eTEshrlhj66JiMWzjsf/">developer-apis</a></td></tr>
+<tr><td><h3><i class="fa-screwdriver-wrench" style="color:$primary;">:screwdriver-wrench:</i></h3></td><td><strong>Services and learning</strong></td><td>Calibration, repair, support requests, training, and service agreements.</td><td><a href="https://app.gitbook.com/s/UbJHKEpHNqXy0xooQvW4/">services-learning</a></td></tr>
 <tr><td><h3><i class="fa-language" style="color:$primary;">:language:</i></h3></td><td><strong>Translations</strong></td><td>French and Chinese variants demonstrate how a global docs surface can stay consistent.</td><td><a href="translations.md">translations</a></td></tr>
 </tbody></table>
 

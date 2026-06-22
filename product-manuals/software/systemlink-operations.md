@@ -17,6 +17,6 @@ SystemLink software provides software deployment, systems configuration, test mo
 </tbody></table>
 
 {% hint style="success" icon="code" %}
-For programmatic access, see the [Developer APIs](https://app.gitbook.com/s/XSPACE_DEVELOPER/).
+For programmatic access, see the [Developer APIs](https://app.gitbook.com/s/9eTEshrlhj66JiMWzjsf/).
 {% endhint %}
 
