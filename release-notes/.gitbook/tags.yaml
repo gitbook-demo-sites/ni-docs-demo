@@ -1,0 +1,13 @@
+- tag: software
+  label: Software
+  icon: desktop
+- tag: hardware
+  label: Hardware
+  icon: microchip
+- tag: services
+  label: Services
+  icon: screwdriver-wrench
+- tag: api
+  label: API
+  icon: code
+
